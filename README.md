@@ -1,2 +1,2 @@
 # USB-Insight-HUB
-USB 3.0 HUB for developers and tech enthusiasts
+Supercharged USB 3.0 HUB for developers and tech enthusiasts
